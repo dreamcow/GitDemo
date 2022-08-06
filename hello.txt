@@ -1,5 +1,4 @@
 Hello Git! Hot-fix
->>>>>>> hot-fix
 Welcome To Git!
 happy time to everyone!
 change to hot-fix!
